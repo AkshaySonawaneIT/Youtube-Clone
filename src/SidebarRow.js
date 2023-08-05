@@ -1,5 +1,4 @@
 import React from 'react';
-import HomeIcon from '@mui/icons-material/Home';
 import './SidebarRow.css';
 
 function SidebarRow({selected, icon, title }) {
